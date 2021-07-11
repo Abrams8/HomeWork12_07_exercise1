@@ -1,0 +1,10 @@
+0 : 24 : true
+1 : 27 : true
+2 : 31 : true
+3 : 26 : true
+4 : 28 : true
+5 : 21 : true
+6 : 33 : true
+7 : 37 : true
+8 : 24 : true
+9 : 34 : true
